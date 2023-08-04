@@ -37,6 +37,10 @@ Azure OpenAI Service への接続フローも含まれています。
 
 ![image](https://github.com/geekfujiwara/KBAppLite/assets/96101315/af4c863b-785c-44d0-b402-e72e66f25e6d)
 
+ビューを切り替えます。
+
+![image](https://github.com/geekfujiwara/KBAppLite/assets/96101315/e07493cc-0723-4051-8f57-b167f4c2cc1a)
+
 
 以下のフローが利用されています。
 
