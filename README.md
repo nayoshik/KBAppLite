@@ -60,6 +60,9 @@ Azure OpenAI Service への接続フローも含まれています。
 ![image](https://github.com/geekfujiwara/KBAppLite/assets/96101315/98489ac2-f445-45c9-8e33-0f1dbd9cc702)
 
 
+結果はこのようにして回答され、保存されます。
+
+![image](https://github.com/geekfujiwara/KBAppLite/assets/96101315/7465b484-6e3e-41e0-ad98-5753a4cf2504)
 
 
 # 設定方法
