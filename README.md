@@ -1,11 +1,14 @@
 # ナレッジ管理アプリ「KBアプリ ライト版」
 Power Apps モデル駆動型アプリによって作成されたKBアプリのライト版です。
 Azure OpenAI Service への接続フローも含まれています。
+
 ![image](https://github.com/geekfujiwara/KBAppLite/assets/96101315/d309749e-8f3f-43e8-8f8d-df49cf0f4f86)
 
-## ナレッジ承認依頼
+## ナレッジ承認
+ナレッの承認を行うことが出来ます。コマンドバーの「ナレッジ承認」からクリックするとカスタムページが起動します。
 
-![image](https://github.com/geekfujiwara/KBAppLite/assets/96101315/21e0381d-edd0-4322-9dec-b3cf64fd30da)
+![image](https://github.com/geekfujiwara/KBAppLite/assets/96101315/db43c44a-c658-4307-b1ce-97a1c29ea82a)
+
 
 ![image](https://github.com/geekfujiwara/KBAppLite/assets/96101315/eae9cbc5-73ef-4366-9c94-c98716ae3ef6)
 
