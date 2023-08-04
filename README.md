@@ -41,7 +41,7 @@ Azure OpenAI Service への接続フローも含まれています。
 
 ![image](https://github.com/geekfujiwara/KBAppLite/assets/96101315/e07493cc-0723-4051-8f57-b167f4c2cc1a)
 
-タイトルに質問を入力して、GPTへの質問を「はい」にして保存します。
+タイトルに質問、カテゴリで製品を選択して、GPTへの質問を「はい」にして保存します。
 
 ![image](https://github.com/geekfujiwara/KBAppLite/assets/96101315/c62a5f5e-d51c-47c8-b7e5-24f6cc370215)
 
