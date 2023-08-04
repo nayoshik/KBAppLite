@@ -68,6 +68,7 @@ Azure OpenAI Service への接続フローも含まれています。
 # 設定方法
 ## ソリューションのインポート方法
 ソリューションのインポート方法は以下にて説明があります。Microsoft Learnの情報を参照してください。
+https://learn.microsoft.com/ja-jp/power-apps/maker/data-platform/import-update-export-solutions
 
 ## Azure OpenAI Serivce の利用
 Azure OpenAI Serivce の利用を行うには、エンドポイントURIとAPI-KEYを指定する必要があります。
@@ -81,4 +82,7 @@ Azure OpenAI Serivce の利用を行うには、エンドポイントURIとAPI-K
 ソリューション内に入っておりますのでこちらから値を設定するようにしてください。
 ![image](https://github.com/geekfujiwara/KBAppLite/assets/96101315/4a52713e-d611-4d4a-9591-88147a1358a9)
 
-環境変数の値の設定方法は以下のMicrosoft Learnの情報を参照してください。
+環境変数の値の設定方法は以下のように行ってください。
+ソリューションのインポート後に概要を開き、環境変数を更新するようにしてください。
+
+![image](https://github.com/geekfujiwara/KBAppLite/assets/96101315/ef01c616-22ed-424e-bc3b-400c9d9406a9)
