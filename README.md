@@ -9,8 +9,27 @@ Azure OpenAI Service への接続フローも含まれています。
 
 ![image](https://github.com/geekfujiwara/KBAppLite/assets/96101315/db43c44a-c658-4307-b1ce-97a1c29ea82a)
 
+メールアドレスで承認者を検索することが出来ます。
+
+![image](https://github.com/geekfujiwara/KBAppLite/assets/96101315/8b7865b0-022b-4e00-a6f1-9247d1e39e85)
+
 
 ![image](https://github.com/geekfujiwara/KBAppLite/assets/96101315/eae9cbc5-73ef-4366-9c94-c98716ae3ef6)
+
+承認フローはPower Automate で実行されます。
+
+![image](https://github.com/geekfujiwara/KBAppLite/assets/96101315/6022b7ff-2c19-437a-b8bd-18a1c88fffb3)
+
+
+承認通知はTeams及びOutlook になされます。
+
+![image](https://github.com/geekfujiwara/KBAppLite/assets/96101315/9f334001-426f-4ad4-ae0e-b0d0c0502524)
+
+承認すると、Power Apps では承認ボタンは押せなくなります。
+
+![image](https://github.com/geekfujiwara/KBAppLite/assets/96101315/8371b4de-0887-4c1d-b0e0-f6bc33434eee)
+
+承認タブで状況を確認できます。
 
 
 ## ナレッジの自動生成 (Azure OpenAI Service)
@@ -35,6 +54,13 @@ Azure OpenAI Service への接続フローも含まれています。
 
 ## Azure OpenAI Serivce の利用
 Azure OpenAI Serivce の利用を行うには、エンドポイントURIとAPI-KEYを指定する必要があります。
+
+## ご利用マニュアルのURL
+説明を起きたい場合、URLを設定するようにしてください。
+
+![image](https://github.com/geekfujiwara/KBAppLite/assets/96101315/b7e06a3c-addd-42fc-b247-ed847f30ab66)
+
+
 ソリューション内に入っておりますのでこちらから値を設定するようにしてください。
 ![image](https://github.com/geekfujiwara/KBAppLite/assets/96101315/4a52713e-d611-4d4a-9591-88147a1358a9)
 
