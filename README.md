@@ -74,7 +74,7 @@ https://learn.microsoft.com/ja-jp/power-apps/maker/data-platform/import-update-e
 Azure OpenAI Serivce の利用を行うには、エンドポイントURIとAPI-KEYを指定する必要があります。
 
 ## ご利用マニュアルのURL
-説明を起きたい場合、URLを設定するようにしてください。
+説明を置きたい場合、URLを設定するようにしてください。
 
 ![image](https://github.com/geekfujiwara/KBAppLite/assets/96101315/b7e06a3c-addd-42fc-b247-ed847f30ab66)
 
